@@ -1,1 +1,2 @@
-print("HellowWorld");
+print("Hello World");
+print("Hello everything");
